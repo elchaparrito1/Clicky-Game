@@ -1,0 +1,24 @@
+nav ul {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 2px;
+    padding: 0;
+  }
+
+nav {
+  background:rgb(124, 128, 131);
+}
+
+.navbar-brand {
+  font-family: 'ZCOOL XiaoWei', serif;
+  color: white;
+  font-size: 2em;
+}
+
+a {
+  font-family: 'ZCOOL XiaoWei', serif;
+  color: gray;
+  cursor: pointer;
+}
